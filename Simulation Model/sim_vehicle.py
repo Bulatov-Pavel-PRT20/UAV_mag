@@ -19,6 +19,7 @@ import shlex
 from pymavlink import mavextra
 from pysim import vehicleinfo
 
+
 # List of open terminal windows for macosx
 windowID = []
 
