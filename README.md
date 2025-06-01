@@ -35,7 +35,7 @@
 [![Видео](https://img.youtube.com/vi/cyLYSvqcywg/hqdefault.jpg)](https://www.youtube.com/watch?v=cyLYSvqcywg)
 
 ### Полет по координатам и возврат домой
-[![Видео](https://img.youtube.com/vi/cyLYSvqcywg/8ESFbyPvtf4.jpg)](https://www.youtube.com/watch?v=8ESFbyPvtf4)
+[![Видео](https://img.youtube.com/vi/8ESFbyPvtf4.jpg/hqdefault.jpg)](https://www.youtube.com/watch?v=8ESFbyPvtf4)
 
 ## Заключение
 - Результатом работы стала полнофункциональная имитационная модель квадрокоптера в среде Gazebo, в которой была реализована миссия программно-управляемого полета, включающая в себя такие этапы, как: взлёт на заданную высоту, движение по заданным координатам, возврат домой и последующая посадка.
